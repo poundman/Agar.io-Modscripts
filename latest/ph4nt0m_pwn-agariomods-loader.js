@@ -3,7 +3,6 @@
 // @namespace	  ph4nt0m_pwn_agariomods_script
 // @version      1.9.9
 // @description  ph4nt0m_pwn_agariomods_script
-// @updateURL    http://agariomods.com/mods.user.js
 // @author       electronoob
 // @match        http://agar.io/
 // @match        http://agar.io/#*
