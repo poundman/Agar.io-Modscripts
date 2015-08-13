@@ -1,6 +1,5 @@
 # Agar.io-Modscripts
-<title>Agar.io Modscripts</title>
-<h1>Agar.io-Modscripts</h1>
+
 
 <b>Installation</b>
 <p>
