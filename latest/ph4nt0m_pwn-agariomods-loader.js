@@ -1,11 +1,13 @@
 // ==UserScript==
-// @name Open CodeProject Links
-// @namespace http://hibbard.eu/
-// @version 0.1
-// @description Opens all links in the CodeProject newsletter 
-// @match http://www.codeproject.com/script/Mailouts/*
-// @copyright 2012+, hibbard.eu
-// @require http://code.jquery.com/jquery-latest.js
+// @name         ph4nt0m_pwn Agario modscript
+// @namespace	 ph4nt0m_pwn Agario modscript
+// @version      1.9.9
+// @description  ph4nt0m_pwn Agario modscript
+// @author       ph4nt0m_pwn
+// @match        http://agar.io/
+// @match        http://agar.io/#*
+// @match        http://agar.io/?*
+// @grant        none
 // ==/UserScript==
 
 var script = document.createElement('script');
